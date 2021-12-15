@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"name": "api-creada-para-movil-1",
+			"path": "..\\..\\api-creada-para-movil-1"
+		},
+		{
+			"name": "api-creada-para-movil",
+			"path": "..\\..\\api-creada-para-movil"
+		}
+	],
+	"settings": {}
+}
